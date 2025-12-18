@@ -1,0 +1,4 @@
+no_history=true
+modal=false
+drun-search-paths=/usr/share/applications;~/.local/share/applications
+drun-match-fields=name,generic,keywords,comment,categories
