@@ -37,6 +37,7 @@ dotfiles/
 
 steps:
 ```sh
+mkdir -p ~/dotfiles/kitty/.config
 mv ~/.config/fish ~/dotfiles/fish/.config/
 cd ~/dotfiles
 stow fish
